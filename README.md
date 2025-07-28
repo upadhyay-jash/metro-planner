@@ -7,14 +7,6 @@ An interactive web application that calculates the fastest route between two sta
 
 ---
 
-### 📍 Live Demo Screenshot
-
-*(I recommend you replace this with a screenshot of your own running application!)*
-
-![App Screenshot](https://i.imgur.com/uI67LzK.png)
-
----
-
 ### ✨ Overview
 
 This project is a practical implementation of fundamental graph theory to solve a common real-world problem: finding the most efficient path through a network. The application models a metro system as a weighted, undirected graph and uses Dijkstra's algorithm to identify the route with the minimum travel time between any two selected stations.
